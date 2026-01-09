@@ -17,6 +17,21 @@ La cardinalidad de la relación Pedido y Producto consiste en que Pedido es "0..
 
 ### 3. ¿Qué otros tipos de cardinalidad se pueden definir en UML?
 
+Además de "0..*" y "1", en UML existen las siguientes cardinalidades:
+
+- "0..1" o "Cero o uno": La cardinalidad solo puede ser de cero o uno, por ejemplo, un pedido solo puede tener cero o un producto.
+  
+- "N..M" o "Desde N hasta M": La cardinalidad puede ser desde dos números cualquiera dentro de un intervalo, por ejemplo, un pedido solo puede tener desde 0 hasta 10 productos.
+  
+- "1..*" o "Uno o varios (mínimo 1)": La cardinalidad puede ser uno o varios, por ejemplo, un pedido solo puede tener uno o varios productos. 
 
 
 ### 4. ¿Qué diferencias existen entre una asociación, una agregación y una composición?
+
+Existen distintos tipos de relaciones en un diagrama de UML, los cuales son:
+
+- Asociación:
+  
+- Agregación:
+  
+- Composición: 
