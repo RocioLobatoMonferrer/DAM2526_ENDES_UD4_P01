@@ -30,8 +30,8 @@ Además de "0..*" y "1", en UML existen las siguientes cardinalidades:
 
 Existen distintos tipos de relaciones en un diagrama de UML, los cuales son:
 
-- Asociación:
+- Asociación: Consiste en que dos clases se relacionan entre sí, ya sea porque una de las clases tiene una instancia de la otra clase. 
   
-- Agregación:
+- Agregación: Consiste en que en la relación existen dos partes, el todo y la parte de la clase que pueden estar separados ya que tienen una independicia entre ellos.  
   
-- Composición: 
+- Composición: Consiste en que en la relación existen dos partes, el todo y la parte de la clase que no pueden estar separados ya que sin una de las dos, no existiría el objeto como tal. 
